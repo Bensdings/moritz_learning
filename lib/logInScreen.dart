@@ -1,8 +1,8 @@
-/*import 'package:flutter/material.dart';
+import 'package:flutter/material.dart';
 
-class LogIn extends StatefulWidget {
+class LogInScreen extends StatefulWidget {
   String _eMail = '';
-  LogIn({super.key, required this._eMail});
+  LogInScreen({super.key});
 
   @override
   State<LogIn> createState() => _LogInState();
