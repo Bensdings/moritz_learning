@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "337079316894",
+    "project_id": "moritzvl-7acfb",
+    "storage_bucket": "moritzvl-7acfb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337079316894:android:dbafcfecb2ee55d218a68f",
+        "android_client_info": {
+          "package_name": "com.LogIn.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABOL8-hEqP9DQuWeWO3IEJGoVqDlCwwnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337079316894:android:b6d94c93d89fff8218a68f",
+        "android_client_info": {
+          "package_name": "com.moritz.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABOL8-hEqP9DQuWeWO3IEJGoVqDlCwwnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

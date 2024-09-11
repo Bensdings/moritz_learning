@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDAZhft_QLtd2wojm2C4NhioFodY1Y50Hw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>337079316894</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.moritzLearning</string>
+	<key>PROJECT_ID</key>
+	<string>moritzvl-7acfb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>moritzvl-7acfb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:337079316894:ios:bcb41efc7f427edd18a68f</string>
+</dict>
+</plist>
